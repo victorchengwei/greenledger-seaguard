@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.pt
+tmp_in.mp4
+*.mp4
+*.zip
+runs/
+.venv/
+.DS_Store
