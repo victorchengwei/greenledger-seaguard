@@ -1,0 +1,10 @@
+detector_api/
+__pycache__/
+tmp_in.mp4
+*.zip
+*.pt
+.env
+.git/
+tests/
+docs/
+training/
